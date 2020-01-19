@@ -1,0 +1,6 @@
+api/
+node_modules
+routes/
+app.js
+package-lock.json
+package.json
